@@ -1,0 +1,12 @@
+{
+  "name": "daily-mantra-monorepo",
+  "version": "1.0.0",
+  "description": "a mono repo for daily mantra app and design system",
+  "main": "index.js",
+  "author": "Manuel P",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
